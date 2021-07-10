@@ -1,0 +1,14 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Type=Application
+Version=5.2.00
+Encoding=UTF-8
+Name=ImperioBitcoin-Qt Regtest
+Icon=${SNAP}/qt-regtest.ico
+MimeType=x-scheme-handler/ibitcoin;
+Exec=ibitcoin.qt-regtest %u
+Terminal=false
+Categories=Office;Finance;
+Comment=ImperioBitcoin Core Regression Test (by iBTCCOIN-Project)
+Keywords=internet;ibitcoin;regtest;qt;crypto;currency;snap;snapcraft;iBTCCOIN-Project;project;daemon;cli;qt;zerocoin;zibtc

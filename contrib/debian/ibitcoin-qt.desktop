@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=iBTCCOIN
+Comment=iBTCCOIN P2P Cryptocurrency
+Exec=ibitcoin-qt %u
+Terminal=false
+Type=Application
+Icon=ibitcoin128
+MimeType=x-scheme-handler/ibitcoin;
+Categories=Office;Finance;
+Name[pt_BR]=ibitcoin-qt.desktop

@@ -1,0 +1,2 @@
+usr/local/bin/ibitcoind usr/bin
+usr/local/bin/ibitcoin-cli usr/bin

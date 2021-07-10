@@ -1,0 +1,14 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Type=Application
+Version=5.2.00
+Encoding=UTF-8
+Name=ImperioBitcoin-Qt
+Icon=${SNAP}/qt.png
+MimeType=x-scheme-handler/ibitcoin;
+Exec=ibitcoin.qt %u
+Terminal=false
+Categories=Office;Finance;
+Comment=iBTC Core (by iBTCCOIN-Project)
+Keywords=internet;ibitcoin;main;qt;crypto;currency;snap;snapcraft;project;zerocoin;zibtc;southasia
